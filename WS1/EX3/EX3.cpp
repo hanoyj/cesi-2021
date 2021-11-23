@@ -25,3 +25,8 @@
 // m5 utilise un pointeur de type CLb. Elle ne manipule pas directement l’objet de type CLb  mais son pointeur.
 
 
+int main()
+{
+	// Afin d'éviter pb de génération de la solution complète
+	return 0;
+}
